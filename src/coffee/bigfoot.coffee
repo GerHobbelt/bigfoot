@@ -468,7 +468,7 @@
           $el.remove()
         else
           $el.children("hr").addClass "footnote-print-only"
-          $el.addClass "footnote-print-only"
+          # $el.addClass "footnote-print-only"
 
         # Propogate up to the container element
         deleteEmptyOrHR $parent

@@ -1,5 +1,5 @@
 {
-  "name": "bigfoot",
+  "name": "pe-bigfoot",
   "main": "src/coffee/bigfoot.coffee",
   "version": "2.1.4.1",
   "homepage": "http://www.bigfootjs.com",

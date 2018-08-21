@@ -1,5 +1,5 @@
 {
-  "name": "bigfoot",
+  "name": "pe-bigfoot",
   "version": "2.1.4",
   "main": "src/bigfoot.coffee",
   "description": "A jQuery plugin for empowering HTML footnotes.",

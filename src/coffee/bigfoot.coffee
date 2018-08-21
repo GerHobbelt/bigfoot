@@ -375,7 +375,7 @@
         switch settings.actionOriginalFN.toLowerCase()
           when "hide"
             $relevantFNLink.addClass "footnote-print-only";
-            $relevantFootnote.addClass "footnote-print-only";
+            #$relevantFootnote.addClass "footnote-print-only";
             deleteEmptyOrHR $parent;
           when "delete"
             $relevantFNLink.remove()

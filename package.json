@@ -5,6 +5,7 @@
   "description": "A jQuery plugin for empowering HTML footnotes.",
   "homepage": "http://www.bigfootjs.com",
   "devDependencies": {
+    "coffeescript": "^2.3.1",
     "grunt": "~0.4.1",
     "grunt-autoprefixer": "~0.5.0",
     "grunt-contrib-coffee": "^0.10.1",
